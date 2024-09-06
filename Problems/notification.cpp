@@ -1,4 +1,6 @@
-// Design a notification system where an item is out of stock but as soon as the stock comes, it should notify all the users looking for it 
+// Design a notification system where an item is out of stock but as soon as the stock comes in, it should notify all the users looking for it 
+
+// This problem is based on - Observer Pattern
 
 #include<iostream>
 #include<vector>
