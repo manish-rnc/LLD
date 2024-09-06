@@ -1,0 +1,1 @@
+Here we do not want to present different types of classes to users rather a single function will be provided to create different types of objects and user will do so by passing different parameter to create different objects 
