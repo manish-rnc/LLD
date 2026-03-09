@@ -26,7 +26,7 @@ CREATIONAL PATTERNS :
 
 STRUCTURAL PATTERNS :
 1. **Decorator** 
-2. Adapter  
+2. **Adapter**  
 3. Composite
 4. Bridge 
 6. Facade 
